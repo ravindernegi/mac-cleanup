@@ -1,0 +1,3 @@
+mac_cleanup.py linguist-detectable=true
+mac_cleanup.zsh linguist-detectable=true
+Run_Mac_Cleanup.command linguist-language=Shell
